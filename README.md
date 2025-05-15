@@ -268,8 +268,9 @@ Weak or predictable passwords make brute-force and dictionary attacks highly eff
 - No dictionary words or common patterns
 - Regular password updates
 
-**Example (Strong Passphrase):**Irep@iredMyGhostF!leYe@r$Back:)
-*It simply says ....I repaired my ghost file years back (with a smilie - :))*
+Example (Strong Passphrase):Irep@iredMyGhostF!leYe@r$Back
+*It simply says....*
+*"I repaired my ghost file years back*
 *I hope you realise how simple it'll be to memorise but hard for bruteforce attacks*
 
 ### 2. Enforce Account Lockout Policies
